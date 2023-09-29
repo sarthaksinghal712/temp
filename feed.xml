@@ -110,6 +110,28 @@
       <media:description>Mark Zuckerberg, Meta’s chief executive, introduced a slew of A.I. products at the company’s Silicon Valley headquarters on Wednesday.</media:description>
     </item>
     <item>
+      <title>CyberWatch News Update</title>
+      <link>https://www.google.com</link>
+      <guid isPermaLink="true">https://www.google.com</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/29/health/mosquitoes-genetic-engineering.html" rel="standout"></atom:link>
+      <description>This is a test news</description>
+      <dc:creator>Stephanie Nolen and Natalija Gormalova</dc:creator>
+      <pubDate>Fri, 29 Sep 2023 04:11:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sao Tome and Principe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California Malaria Initiative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/08/11/multimedia/XX-mosquitos-genetics-copy/XX-mosquitos-genetics-vfzj-moth.jpg" width="151"></media:content>
+      <media:description>This is a test news from RSS feed</media:description>
+    </item>
+    <item>
       <title>The Gamble: Can Genetically Modified Mosquitoes End Disease?</title>
       <link>https://www.nytimes.com/2023/09/29/health/mosquitoes-genetic-engineering.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2023/09/29/health/mosquitoes-genetic-engineering.html</guid>
