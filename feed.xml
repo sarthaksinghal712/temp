@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2023 The New York Times Company</copyright>
+    <lastBuildDate>Fri, 29 Sep 2023 08:48:14 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Sep 2023 04:11:39 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology</link>
+    </image>
+    <item>
+      <title>Gifts, Gadgets and Greece: Inside a Huawei Lobbying Campaign</title>
+      <link>https://www.nytimes.com/2023/09/28/technology/huawei-greece-lobbying-campaign.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/28/technology/huawei-greece-lobbying-campaign.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/28/technology/huawei-greece-lobbying-campaign.html" rel="standout"></atom:link>
+      <description>Leaked internal messages detail efforts by the Chinese tech giant to court Greek officials and fight an American-led effort against its technology.</description>
+      <dc:creator>Adam Satariano and Eliza Triantafillou</dc:creator>
+      <pubDate>Thu, 28 Sep 2023 14:36:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">5G (Wireless Communications)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/29/business/29greece-huawei-sub2/29greece-huawei-sub2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Illustration by Mark Harris; Photographs by Angelos Tzortzinis for The New York Times, Aly Song/Reuters, Fabian Sommer/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>A Silicon Valley Supergroup Is Coming Together to Create an A.I. Device</title>
+      <link>https://www.nytimes.com/2023/09/28/technology/openai-apple-silicon-valley-supergroup-create-ai-device.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/28/technology/openai-apple-silicon-valley-supergroup-create-ai-device.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/28/technology/openai-apple-silicon-valley-supergroup-create-ai-device.html" rel="standout"></atom:link>
+      <description>OpenAI’s Sam Altman, the former Apple designer Jony Ive and SoftBank’s Masayoshi Son are teaming up to develop a device that could replace the smartphone.</description>
+      <dc:creator>Tripp Mickle and Cade Metz</dc:creator>
+      <pubDate>Thu, 28 Sep 2023 20:43:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LoveFrom (Design Firm)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SOFTBANK Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ive, Jonathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/28/multimedia/28AI-PHONE-01-vmgc/28AI-PHONE-01-vmgc-moth.jpg" width="151"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>OpenAI’s Sam Altman has been discussing building an A.I. device with Jony Ive, Apple’s former design guru.</media:description>
+    </item>
+    <item>
+      <title>IBM Tries to Ease Customers’ Qualms About Using Generative A.I.</title>
+      <link>https://www.nytimes.com/2023/09/28/business/ibm-ai-data.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/28/business/ibm-ai-data.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/28/business/ibm-ai-data.html" rel="standout"></atom:link>
+      <description>The company will assume the legal risk of businesses that use its A.I. systems and will publish the technology’s underlying data.</description>
+      <dc:creator>Steve Lohr</dc:creator>
+      <pubDate>Thu, 28 Sep 2023 14:50:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Enterprise Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Business Machines Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/28/business/28IBM-AI/28IBM-AI-moth.jpg" width="151"></media:content>
+      <media:credit>Carolyn Cole/Los Angeles Times, via Getty Images</media:credit>
+      <media:description>Twelve years ago, IBM’s Watson’s A.I. system beat top competitors on “Jeopardy!”</media:description>
+    </item>
+    <item>
+      <title>Meet the A.I. Jane Austen: Meta Weaves A.I. Throughout Its Apps</title>
+      <link>https://www.nytimes.com/2023/09/27/technology/meta-ai-celebrities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/27/technology/meta-ai-celebrities.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/27/technology/meta-ai-celebrities.html" rel="standout"></atom:link>
+      <description>Meta introduced artificially intelligent characters based on Jane Austen, Snoop Dogg and others into Instagram, Facebook and WhatsApp, as the race to lead the technology heats up.</description>
+      <dc:creator>Mike Isaac and Cade Metz</dc:creator>
+      <pubDate>Wed, 27 Sep 2023 21:37:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Character.AI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austen, Jane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/27/multimedia/27META-AI-SUB1-clgh/27META-AI-SUB1-clgh-moth.jpg" width="151"></media:content>
+      <media:credit>Loren Elliott for The New York Times</media:credit>
+      <media:description>Mark Zuckerberg, Meta’s chief executive, introduced a slew of A.I. products at the company’s Silicon Valley headquarters on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>The Gamble: Can Genetically Modified Mosquitoes End Disease?</title>
+      <link>https://www.nytimes.com/2023/09/29/health/mosquitoes-genetic-engineering.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/29/health/mosquitoes-genetic-engineering.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/29/health/mosquitoes-genetic-engineering.html" rel="standout"></atom:link>
+      <description>Working on a remote island, scientists think they can use genetic engineering to block a malaria-carrying species of mosquito from spreading the disease — and do it in just a few months. But governments are wary.</description>
+      <dc:creator>Stephanie Nolen and Natalija Gormalova</dc:creator>
+      <pubDate>Fri, 29 Sep 2023 04:11:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sao Tome and Principe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California Malaria Initiative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/08/11/multimedia/XX-mosquitos-genetics-copy/XX-mosquitos-genetics-vfzj-moth.jpg" width="151"></media:content>
+      <media:description>A female Anopheles mosquito, marked with fluorescent powder, under a microscope in a field laboratory on the island of Príncipe. Only female mosquitoes bite humans, and thus spread disease.</media:description>
+    </item>
+    <item>
+      <title>Federal Lawsuit Accuses Tesla of Racial Discrimination</title>
+      <link>https://www.nytimes.com/2023/09/28/business/tesla-eeoc-discrimination-black-workers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/28/business/tesla-eeoc-discrimination-black-workers.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/28/business/tesla-eeoc-discrimination-black-workers.html" rel="standout"></atom:link>
+      <description>The Equal Employment Opportunity Commission filed a lawsuit accusing the carmaker of mistreating Black employees at its factory in California.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Fri, 29 Sep 2023 00:15:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Equal Employment Opportunity Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fremont (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/28/multimedia/28Tesla-eeoc-jwlq/28Tesla-eeoc-jwlq-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Kaneps for The New York Times</media:credit>
+      <media:description>The assembly line at the Tesla factory in Fremont, Calif.</media:description>
+    </item>
+    <item>
+      <title>China Uses ‘Deceptive’ Methods to Sow Disinformation, U.S. Says</title>
+      <link>https://www.nytimes.com/2023/09/28/technology/china-disinformation-us-state-department.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/28/technology/china-disinformation-us-state-department.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/28/technology/china-disinformation-us-state-department.html" rel="standout"></atom:link>
+      <description>The accusations reflect worry in Washington that China’s information operations pose a growing security challenge to the United States.</description>
+      <dc:creator>Steven Lee Myers</dc:creator>
+      <pubDate>Thu, 28 Sep 2023 23:29:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/28/multimedia/28china-propaganda-mkbw/28china-propaganda-mkbw-moth.jpg" width="151"></media:content>
+      <media:credit>Joshua Roberts/Reuters</media:credit>
+      <media:description>The State Department reports that China is using various methods, including buying stakes in media organizations and using social media, to spread propaganda.</media:description>
+    </item>
+    <item>
+      <title>Quebec Lures $5 Billion Battery Factory for Electric Cars</title>
+      <link>https://www.nytimes.com/2023/09/28/business/northvolt-battery-factory-quebec.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/28/business/northvolt-battery-factory-quebec.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/28/business/northvolt-battery-factory-quebec.html" rel="standout"></atom:link>
+      <description>The Canadian government matched financial incentives available in the U.S. to attract the investment from Northvolt, a Swedish company.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Thu, 28 Sep 2023 15:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Northvolt AB</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+    </item>
+    <item>
+      <title>¿En qué consiste la demanda a Amazon de la FTC?</title>
+      <link>https://www.nytimes.com/es/2023/09/28/espanol/demanda-amazon-competencia-ftc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/es/2023/09/28/espanol/demanda-amazon-competencia-ftc.html</guid>
+      <atom:link href="https://www.nytimes.com/es/2023/09/28/espanol/demanda-amazon-competencia-ftc.html" rel="standout"></atom:link>
+      <description>La agencia de protección a los consumidores de Estados Unidos asegura que el gigante de internet usó su poder monopólico para aumentar precios y perjudicar a sus competidores</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Thu, 28 Sep 2023 09:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/26/multimedia/26amazon-takeaways-mhwj-esp/00amazon-ftc-hfo-mhwj-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran para The New York Times</media:credit>
+      <media:description>Gran parte del poder de Amazon radica en su mercado en línea, a veces conocido como “tienda de todo” por la variedad de productos que vende y la rapidez con la que los entrega.</media:description>
+    </item>
+    <item>
+      <title>Ilia Calderón’s Questions at GOP Debate Catch Candidates Off-Guard</title>
+      <link>https://www.nytimes.com/2023/09/28/technology/ilia-calderon-republican-debate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/28/technology/ilia-calderon-republican-debate.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/28/technology/ilia-calderon-republican-debate.html" rel="standout"></atom:link>
+      <description>The Univision anchor, one of three moderators, caught some candidates off-guard with questions on immigration and hate crimes.</description>
+      <dc:creator>Michael M. Grynbaum</dc:creator>
+      <pubDate>Thu, 28 Sep 2023 04:05:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Calderon, Ilia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox Business Network</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Univision</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/27/multimedia/27debate-calderone-zfvk/27debate-calderone-zfvk-moth.jpg" width="151"></media:content>
+      <media:credit>Etienne Laurent/EPA, via Shutterstock</media:credit>
+      <media:description>Ilia Calderón, right, at the Ronald Reagan Presidential Library in Simi Valley, Calif., on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Sony’s PlayStation Chief to Retire Next Year</title>
+      <link>https://www.nytimes.com/2023/09/27/technology/sonys-playstation-chief-to-retire-next-year.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/27/technology/sonys-playstation-chief-to-retire-next-year.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/27/technology/sonys-playstation-chief-to-retire-next-year.html" rel="standout"></atom:link>
+      <description>Jim Ryan, who has been with the company for nearly 30 years, has led one of the most dominant businesses in the video game industry.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Thu, 28 Sep 2023 00:03:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PlayStation (Video Game System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sony Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ryan, Jim (Technology Executive)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/27/business/27SONY-1/27SONY-1-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Wong/Getty Images</media:credit>
+      <media:description>Jim Ryan, the chief executive of Sony Interactive Entertainment since 2019, will retire in March.</media:description>
+    </item>
+    <item>
+      <title>The New ChatGPT Can ‘See’ and ‘Talk.’ Here’s What It’s Like.</title>
+      <link>https://www.nytimes.com/2023/09/27/technology/new-chatgpt-can-see-hear.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/27/technology/new-chatgpt-can-see-hear.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/27/technology/new-chatgpt-can-see-hear.html" rel="standout"></atom:link>
+      <description>The image-recognition feature could have many uses, and the voice feature is even more intriguing.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Fri, 29 Sep 2023 00:47:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Vision</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/27/multimedia/27ROOSE-cqpz/27ROOSE-cqpz-moth.jpg" width="151"></media:content>
+      <media:credit>Jackie Molloy for The New York Times</media:credit>
+      <media:description>ChatGPT’s new features are part of an industrywide push toward “multimodal” A.I. systems that can handle text, photos and videos. </media:description>
+    </item>
+    <item>
+      <title>To Bring Socializing Back to Social Networks, Apps Try A.I. Imagery</title>
+      <link>https://www.nytimes.com/2023/09/27/technology/ai-images-social-media-sharing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/27/technology/ai-images-social-media-sharing.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/27/technology/ai-images-social-media-sharing.html" rel="standout"></atom:link>
+      <description>Instagram, Facebook, Snapchat and several newcomers are betting on artificial intelligence to rejuvenate the fun, interactivity and whimsy of creating and sharing images.</description>
+      <dc:creator>Yiwen Lu</dc:creator>
+      <pubDate>Wed, 27 Sep 2023 18:09:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Creativity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/27/business/27ai-socialmedia-top/27ai-socialmedia-top-moth.jpg" width="151"></media:content>
+      <media:credit>Myuri Thiruna and Jennifer Lee</media:credit>
+      <media:description>Selfie images generated by Myuri Thiruna and a friend with artificial intelligence on the Can of Soup app.</media:description>
+    </item>
+    <item>
+      <title>With Meta’s Quest 3, Mixed Reality Is Here. So Now What?</title>
+      <link>https://www.nytimes.com/2023/09/27/technology/personaltech/meta-quest-3-vr-headset.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/27/technology/personaltech/meta-quest-3-vr-headset.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/27/technology/personaltech/meta-quest-3-vr-headset.html" rel="standout"></atom:link>
+      <description>The new $500 headset lets people see the outside world while immersed in virtual reality. The benefits are to be determined.</description>
+      <dc:creator>Brian X. Chen</dc:creator>
+      <pubDate>Wed, 27 Sep 2023 18:25:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Reality (Computers)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Headphones and Headsets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/27/business/27techfix/27techfix-moth.jpg" width="151"></media:content>
+      <media:credit>Derek Abella</media:credit>
+    </item>
+    <item>
+      <title>Lina Khan vs. Jeff Bezos: This Is Big Tech’s Real Cage Match</title>
+      <link>https://www.nytimes.com/2023/09/27/technology/lina-khan-jeff-bezos-ftc-amazon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/27/technology/lina-khan-jeff-bezos-ftc-amazon.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/27/technology/lina-khan-jeff-bezos-ftc-amazon.html" rel="standout"></atom:link>
+      <description>The chair of the Federal Trade Commission wants to disrupt Amazon, whose founder built a trillion-dollar firm by disrupting retail.</description>
+      <dc:creator>David Streitfeld</dc:creator>
+      <pubDate>Wed, 27 Sep 2023 21:19:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Lina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/27/business/00kahn-bezos/00kahn-bezos-moth.jpg" width="151"></media:content>
+      <media:credit>Photographs by Pablo Martinez Monsivais/Associated Press; Tom Brenner for The New York Times</media:credit>
+      <media:description>The Federal Trade Commission filed an antitrust lawsuit against Amazon, pitting the agency’s chair, Lina Khan, against the company’s founder, Jeff Bezos, in a long-awaited confrontation.</media:description>
+    </item>
+    <item>
+      <title>E.U. Law Sets the Stage for a Clash Over Disinformation</title>
+      <link>https://www.nytimes.com/2023/09/27/technology/disinformation-law-european-union.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/27/technology/disinformation-law-european-union.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/27/technology/disinformation-law-european-union.html" rel="standout"></atom:link>
+      <description>The law, aimed at forcing social media giants to adopt new policies to curb harmful content, is expected to face blowback from Elon Musk, who owns X.</description>
+      <dc:creator>Steven Lee Myers</dc:creator>
+      <pubDate>Wed, 27 Sep 2023 04:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">General Data Protection Regulation (GDPR)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caputova, Zuzana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovakia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/22/multimedia/EU-ELECTION-DISINFO-debate-zmqg/EU-ELECTION-DISINFO-debate-zmqg-moth.jpg" width="151"></media:content>
+      <media:credit>Jakub Gavlak/EPA, via Shutterstock</media:credit>
+      <media:description>Robert Fico, left, heads Slovakia’s SMER party. As the country heads toward an election on Saturday, it has been inundated with disinformation and other harmful content on social media sites.</media:description>
+    </item>
+    <item>
+      <title>Biden Administration Plans to Bring Back ‘Net Neutrality’ Rules</title>
+      <link>https://www.nytimes.com/2023/09/26/technology/net-neutrality-rules-broadband-internet-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/26/technology/net-neutrality-rules-broadband-internet-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/26/technology/net-neutrality-rules-broadband-internet-biden.html" rel="standout"></atom:link>
+      <description>The head of the Federal Communications Commission said the government needed to protect open access to the “essential infrastructure of modern life.”</description>
+      <dc:creator>Steve Lohr</dc:creator>
+      <pubDate>Tue, 26 Sep 2023 22:11:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosenworcel, Jessica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Net Neutrality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/26/multimedia/26net-neutrality-Rosenworcel-bhlv/26net-neutrality-Rosenworcel-bhlv-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker/Getty Images</media:credit>
+      <media:description>Jessica Rosenworcel, the Federal Communications Commission Chairwoman. Earlier open internet rules, known as net neutrality, prohibited broadband internet suppliers from blocking or slowing online services.</media:description>
+    </item>
+    <item>
+      <title>FTC Says Amazon Used These Tactics to Undermine Competition</title>
+      <link>https://www.nytimes.com/2023/09/26/technology/amazon-ftc-lawsuit-antitrust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/26/technology/amazon-ftc-lawsuit-antitrust.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/26/technology/amazon-ftc-lawsuit-antitrust.html" rel="standout"></atom:link>
+      <description>In a lawsuit filed on Tuesday, the Federal Trade Commission said the internet giant used its monopoly power to stifle competition and raise prices.</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Tue, 26 Sep 2023 22:01:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/26/multimedia/26amazon-takeaways-mhwj/00amazon-ftc-hfo-mhwj-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Much of Amazon’s power comes from its online marketplace, sometimes known as an “everything store” for the range of products it sells and the speed with which it delivers them.</media:description>
+    </item>
+    <item>
+      <title>Top Apple Executive Defends Favoring Google on iPhones</title>
+      <link>https://www.nytimes.com/2023/09/26/technology/apple-executive-google-trial-iphones.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/26/technology/apple-executive-google-trial-iphones.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/26/technology/apple-executive-google-trial-iphones.html" rel="standout"></atom:link>
+      <description>Eddy Cue, a longtime executive at the company, said Apple’s multibillion-dollar deals with Google were driven by quality, not money.</description>
+      <dc:creator>Cecilia Kang and Tripp Mickle</dc:creator>
+      <pubDate>Tue, 26 Sep 2023 19:57:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cue, Eddy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/26/multimedia/26GOOGLE-TRIAL-Cue-gkzt/26GOOGLE-TRIAL-Cue-gkzt-moth.jpg" width="151"></media:content>
+      <media:credit>Chip Somodevilla/Getty Images</media:credit>
+      <media:description>Eddy Cue, Apple’s senior vice president of services, arriving at a federal courthouse in Washington, D.C.</media:description>
+    </item>
+    <item>
+      <title>For Amazon’s Andy Jassy, a Cleanup Job Just Got a Lot Bigger</title>
+      <link>https://www.nytimes.com/2023/09/26/technology/andy-jassy-amazon-ftc-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/26/technology/andy-jassy-amazon-ftc-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/26/technology/andy-jassy-amazon-ftc-lawsuit.html" rel="standout"></atom:link>
+      <description>The F.T.C. accused the internet giant of protecting an online retail monopoly and forcing higher prices onto consumers.</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Tue, 26 Sep 2023 19:30:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jassy, Andrew R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/08/14/multimedia/00jassy-fwqh/00jassy-fwqh-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Llorente for The New York Times</media:credit>
+      <media:description>Andy Jassy, here at the 2022 DealBook conference, replaced Jeff Bezos as Amazon’s chief executive two years ago.</media:description>
+    </item>
+    <item>
+      <title>FTC Sues Amazon, Accusing Company of Illegal Online Retail Monopoly</title>
+      <link>https://www.nytimes.com/2023/09/26/technology/ftc-amazon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/26/technology/ftc-amazon.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/26/technology/ftc-amazon.html" rel="standout"></atom:link>
+      <description>The Federal Trade Commission and 17 states sued Amazon, saying its conduct in its online store and services to merchants illegally stifled competition.</description>
+      <dc:creator>David McCabe</dc:creator>
+      <pubDate>Tue, 26 Sep 2023 20:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Lina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/05/01/multimedia/00amazon-ftc-hfo-lpwj/00amazon-ftc-hfo-lpwj-moth.jpg" width="151"></media:content>
+      <media:credit>Joe Buglewicz for The New York Times</media:credit>
+      <media:description>Much of Amazon’s power comes from its online marketplace, sometimes known as an “everything store” for the range of products it sells and the speed with which it delivers them.</media:description>
+    </item>
+    <item>
+      <title>‘Unprecedented’ Secrecy in Google Trial as Tech Giants Push to Limit Disclosures</title>
+      <link>https://www.nytimes.com/2023/09/26/technology/google-antitrust-trial-secrecy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/26/technology/google-antitrust-trial-secrecy.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/26/technology/google-antitrust-trial-secrecy.html" rel="standout"></atom:link>
+      <description>Efforts to seal testimony have increasingly raised questions as the federal antitrust case enters its third week in court.</description>
+      <dc:creator>Nico Grant, Cecilia Kang and Tripp Mickle</dc:creator>
+      <pubDate>Tue, 26 Sep 2023 19:46:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mehta, Amit P</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/27/multimedia/26JPgoogle-secrecy1-print-tchj/26google-secrecy-tchj-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>The case against Google is shaping up to be among the most secretive antitrust trials of the last few decades.</media:description>
+    </item>
+    <item>
+      <title>Can the U.S. Make Solar Panels? This Company Thinks So.</title>
+      <link>https://www.nytimes.com/2023/09/26/business/energy-environment/first-solar-panels-biden-ira.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/26/business/energy-environment/first-solar-panels-biden-ira.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/26/business/energy-environment/first-solar-panels-biden-ira.html" rel="standout"></atom:link>
+      <description>First Solar kept producing them in Ohio after most of the industry moved to China. President Biden wants many more domestic manufacturers.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Tue, 26 Sep 2023 12:51:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forced Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation Reduction Act of 2022</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">First Solar Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/20/multimedia/00first-solar-01-jwtl/00first-solar-01-jwtl-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Lozada for The New York Times</media:credit>
+      <media:description>First Solar’s factory in Perrysburg, Ohio, has been making solar panels for more than 20 years.</media:description>
+    </item>
+    <item>
+      <title>Nuclear Fusion Breakthrough Gets a Bigger Burst of Laser Energy</title>
+      <link>https://www.nytimes.com/2023/09/25/science/nuclear-laser-fusion-nif.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/25/science/nuclear-laser-fusion-nif.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/25/science/nuclear-laser-fusion-nif.html" rel="standout"></atom:link>
+      <description>Researchers at the National Ignition Facility during a July firing of 192 lasers improved on a December result, but also ended up with duds in other experiments.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Mon, 25 Sep 2023 19:30:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fusion (Nuclear Reaction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laser (Light Amplification by Stimulated Emission of Radiation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Ignition Facility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lawrence Livermore National Laboratory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/25/science/25laser-fusion/25laser-fusion-moth.jpg" width="151"></media:content>
+      <media:credit>Lawrence Livermore National Laboratory</media:credit>
+      <media:description>The target bay of the National Ignition Facility at the Lawrence Livermore National Laboratory in California.</media:description>
+    </item>
+    <item>
+      <title>The Secret Ingredient of ChatGPT Is Human Advice</title>
+      <link>https://www.nytimes.com/2023/09/25/technology/chatgpt-rlhf-human-tutors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/25/technology/chatgpt-rlhf-human-tutors.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/25/technology/chatgpt-rlhf-human-tutors.html" rel="standout"></atom:link>
+      <description>Companies like OpenAI hone their bots using hand-tailored examples from well-educated workers. But is this always for the best?</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Mon, 25 Sep 2023 18:44:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeCun, Yann</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/14/multimedia/chatbot-secret-sauce-01-bcfl/chatbot-secret-sauce-01-bcfl-moth.jpg" width="151"></media:content>
+      <media:credit>Marlena Sloss for The New York Times</media:credit>
+      <media:description>Nazneen Rajani, a researcher with the artificial intelligence lab Hugging Face, is among the scientists working to sharpen chatbots using hand-tailored examples from well-educated workers.</media:description>
+    </item>
+    <item>
+      <title>ChatGPT Can Now Respond With Spoken Words</title>
+      <link>https://www.nytimes.com/2023/09/25/technology/chatgpt-talk-digital-assistance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/25/technology/chatgpt-talk-digital-assistance.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/25/technology/chatgpt-talk-digital-assistance.html" rel="standout"></atom:link>
+      <description>A new version of OpenAI’s popular chatbot behaves a lot like Siri and Alexa. You can talk to it — and have a conversation.</description>
+      <dc:creator>Cade Metz, Brian X. Chen and Karen Weise</dc:creator>
+      <pubDate>Mon, 25 Sep 2023 12:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice Recognition Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/26/multimedia/25JPchatgpt-talks-print-qvwh/25chatgpt-talks-qvwh-moth.jpg" width="151"></media:content>
+      <media:credit>Jackie Molloy for The New York Times</media:credit>
+      <media:description>Over the next two weeks, OpenAI said, the new version of its chatbot would roll out to everyone who subscribes to ChatGPT Plus. </media:description>
+    </item>
+    <item>
+      <title>Air Force Receives Its First Electric Air Taxi</title>
+      <link>https://www.nytimes.com/2023/09/25/business/air-force-joby-electric-air-taxi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/25/business/air-force-joby-electric-air-taxi.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/25/business/air-force-joby-electric-air-taxi.html" rel="standout"></atom:link>
+      <description>Joby Aviation delivered the aircraft, which can carry a pilot and four passengers, to Edwards Air Force Base in California for testing.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Mon, 25 Sep 2023 12:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joby Aero Inc (Joby Aviation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archer Aviation Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beta Technologies</category>
+    </item>
+    <item>
+      <title>Amazon to Invest Up to $4 Billion in A.I. Start-Up Anthropic</title>
+      <link>https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/25/technology/amazon-anthropic-ai-deal.html" rel="standout"></atom:link>
+      <description>With its investment of up to $4 billion, Amazon is seeking a bigger footprint in A.I. development, one already established by rivals like Microsoft and Google.</description>
+      <dc:creator>Adam Satariano and Cade Metz</dc:creator>
+      <pubDate>Mon, 25 Sep 2023 19:08:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/26/multimedia/25anthropic-amazon-print-wphg/25anthropic-amazon-wphg-moth.jpg" width="151"></media:content>
+      <media:credit>Marissa Leshnov for The New York Times</media:credit>
+      <media:description>Anthropic is seen as one of the most promising of a group of A.I. start-ups, and previously received investment from Google.</media:description>
+    </item>
+    <item>
+      <title>Egg Crack Challenge and Cheese Slice Trick: Are Parents OK?</title>
+      <link>https://www.nytimes.com/2023/09/25/arts/babies-cheese-eggs-tiktok.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/25/arts/babies-cheese-eggs-tiktok.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/25/arts/babies-cheese-eggs-tiktok.html" rel="standout"></atom:link>
+      <description>With the “cheese slice trick” and the “egg crack challenge,” parents vie for viral recognition — and the illusion of control over their children.</description>
+      <dc:creator>Amanda Hess</dc:creator>
+      <pubDate>Wed, 27 Sep 2023 02:12:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-great-read</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/26/arts/22baby-challenges/22baby-challenges-moth.jpg" width="151"></media:content>
+      <media:credit>Liana Finck</media:credit>
+    </item>
+    <item>
+      <title>TV Networks’ Last Best Hope: Boomers</title>
+      <link>https://www.nytimes.com/2023/09/23/business/media/tv-networks-streaming-boomers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/23/business/media/tv-networks-streaming-boomers.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/23/business/media/tv-networks-streaming-boomers.html" rel="standout"></atom:link>
+      <description>Viewers have fled prime-time lineups for streaming outlets, with one notable exception: people over 60.</description>
+      <dc:creator>John Koblin</dc:creator>
+      <pubDate>Sat, 23 Sep 2023 09:01:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ratings (Audience Measurement)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baby Boomers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ABC Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Broadcasting Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox Broadcasting Co</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/23/business/23older-viewers/23older-viewers-moth.jpg" width="151"></media:content>
+      <media:credit>Simon Bailly</media:credit>
+    </item>
+    <item>
+      <title>Netflix Prepares to Send Its Final Red Envelope</title>
+      <link>https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html" rel="standout"></atom:link>
+      <description>The company’s DVD subscription service is ending this month, bringing to a close an origin story that ultimately upended the entertainment industry.</description>
+      <dc:creator>Nicole Sperling and Mark Abramson</dc:creator>
+      <pubDate>Sat, 23 Sep 2023 17:04:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DVD (Digital Versatile Disc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/22/business/22Netflix-DVDs-vid-still/22Netflix-DVDs-vid-still-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Man Who Trapped Us in Databases</title>
+      <link>https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html</guid>
+      <atom:link href="https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html" rel="standout"></atom:link>
+      <description>Hank Asher was a drug smuggler with a head for numbers — until he figured out how to turn Americans’ private information into a big business.</description>
+      <dc:creator>McKenzie Funk</dc:creator>
+      <pubDate>Tue, 26 Sep 2023 21:53:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Asher, Hank (1951-2013)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LexisNexis Group</category>
+    </item>
+  </channel>
+</rss>
